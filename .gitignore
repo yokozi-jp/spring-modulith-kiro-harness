@@ -25,3 +25,6 @@ replay_pid*
 
 # Node
 node_modules/
+
+# KiroGraph
+.kirograph/kirograph.db
