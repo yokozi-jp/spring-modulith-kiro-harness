@@ -1,0 +1,1 @@
+# spring-modulith-kiro-harness
